@@ -1,0 +1,11 @@
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\Miner.csproj.AssemblyReference.cache
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\sapper.g.resources
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\Miner.Form1.resources
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\sapper.Properties.Resources.resources
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\lipch\source\repos\sapper\sapper\bin\Debug\sapper.exe.config
+C:\Users\lipch\source\repos\sapper\sapper\bin\Debug\sapper.exe
+C:\Users\lipch\source\repos\sapper\sapper\bin\Debug\sapper.pdb
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\sapper.exe
+C:\Users\lipch\source\repos\sapper\sapper\obj\Debug\sapper.pdb
